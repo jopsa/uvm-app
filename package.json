@@ -10,6 +10,9 @@
     "test": "mocha"
   },
   "dependencies": {
+    "@capacitor/android": "^6.0.0",
+    "@capacitor/cli": "^6.0.0",
+    "@capacitor/core": "^6.0.0",
     "@ionic/core": "^5.3.0",
     "@ionic/vue": "0.0.9",
     "firebase": "^7.17.2",
